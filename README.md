@@ -29,7 +29,7 @@ adb install c:\oldBackup.apk                   安装备份
 弹出错误通知
 应用管理-google商店-停止
 google账户清缓存
-google框架清缓存
+google框架清缓存（*多试几次*）
 重启手机
 打开商店-成功后清商店缓存
 安装5.apk
